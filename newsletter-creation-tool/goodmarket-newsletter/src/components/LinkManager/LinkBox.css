@@ -1,0 +1,95 @@
+.linkbox_grid {
+    display: inline-grid;
+    column-gap: 5px;
+    margin-bottom: 10px;
+}
+
+.up_arrow {
+    visibility: hidden;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+.down_arrow {
+    visibility: hidden;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.linkbox_grid:hover .up_arrow,
+.linkbox_grid:hover .down_arrow,
+.linkbox_grid:hover .delete_container{
+    visibility: visible;
+}
+
+.arrow_active {
+    cursor: pointer;
+}
+
+.arrow_active:hover {
+    color:rgb(0, 255, 105);
+}
+
+.arrow_inactive {
+    visibility: hidden;
+}
+
+.link_container {
+    cursor: move;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: inline-grid;
+    grid-template-areas:    "link expand"
+                            "details details";
+    justify-content: left;
+    align-items: center;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 450px;
+}
+
+.lb-link {
+    margin-top: 10px;
+    grid-area:link;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    /* width:425px; */
+}
+
+.lb-expand {
+    cursor:pointer;
+    margin-top: 12px;
+    grid-area:expand;
+    justify-content: right;
+}
+
+.lb-details {
+    grid-area:details;
+}
+
+.lb-details fieldset{
+    margin-top: 10px;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+
+.delete_container {
+    color:rgb(230, 83, 83);
+    font-size: 24px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: flex;
+    justify-content: left;
+    cursor: pointer; 
+    padding-top: 10px;
+}
+
+.delete_container:hover {
+    color:rgb(130, 25, 25);
+}

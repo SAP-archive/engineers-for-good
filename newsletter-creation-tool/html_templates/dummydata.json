@@ -1,0 +1,111 @@
+{
+    "enterprise": [{
+        "URL": "https://www.goodmarket.global/equalexchange",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/ecc245120c8d1d8d567ef7b18b3a2dadacc1f12db8c0bc8bbaa8de2dd3497870e73bf86cc3a3ffe34e416d9811bcdfd3f222afe4c12726684fdaa53012ffe2b6.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Equal Exchange",
+        "subtitle": "West Bridgewater, MA, United States"
+    },{
+        "URL": "https://www.goodmarket.global/asalibali",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/68b66afef1b44ae091a6f684e37f4b612eaa90c0b62c6ab9511f616720d3604f1c2b4fc05420b93db7afefd8640c4c6aa439b0a8f603ecf730d76dcbc81a4442.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Asali Bali",
+        "subtitle": "Belega, Bali, Indonesia"
+    },{
+        "URL": "https://www.goodmarket.global/equalexchange",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/ecc245120c8d1d8d567ef7b18b3a2dadacc1f12db8c0bc8bbaa8de2dd3497870e73bf86cc3a3ffe34e416d9811bcdfd3f222afe4c12726684fdaa53012ffe2b6.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Más Compost Menos Basura",
+        "subtitle": "Bogotá, Colombia"
+    },{
+        "URL": "https://www.goodmarket.global/equalexchange",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/ecc245120c8d1d8d567ef7b18b3a2dadacc1f12db8c0bc8bbaa8de2dd3497870e73bf86cc3a3ffe34e416d9811bcdfd3f222afe4c12726684fdaa53012ffe2b6.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Social Venture Circle",
+        "subtitle": "Canaan, CT, United States"
+    },{
+        "URL": "https://www.goodmarket.global/equalexchange",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/ecc245120c8d1d8d567ef7b18b3a2dadacc1f12db8c0bc8bbaa8de2dd3497870e73bf86cc3a3ffe34e416d9811bcdfd3f222afe4c12726684fdaa53012ffe2b6.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Elvis & Kresse",
+        "subtitle": "Kent, England, UK"
+    },{
+        "URL": "https://www.goodmarket.global/equalexchange",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/ecc245120c8d1d8d567ef7b18b3a2dadacc1f12db8c0bc8bbaa8de2dd3497870e73bf86cc3a3ffe34e416d9811bcdfd3f222afe4c12726684fdaa53012ffe2b6.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Emas Hitam Indonesia",
+        "subtitle": "Ubud, Bali, Indonesia"
+    }],
+    "marketplace": [{
+        "URL": "https://www.goodmarket.global/sewf",
+        "urlText": "SEWF",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Social Enterprise World Forum free bursary tickets",
+        "vendorURL": "https://kwiksurveys.com/s/XRRGyZZU",
+        "vendorText": "Apply"
+    },{
+        "URL": "https://www.goodmarket.global/catalyst2030",
+        "urlText": "Catalyst 2030",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Participate in the People's Report survey",
+        "vendorURL": "https://client.playverto.com/catalyst2030",
+        "vendorText": "Play"
+    },{
+        "URL": "https://www.goodmarket.global/globalecovillagenetwork",
+        "urlText": "Global Ecovillage Network",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Communities for the Future online summit package",
+        "vendorURL": "https://summit-store.ecovillage.org/store/",
+        "vendorText": "Learn More"
+    },{
+        "URL": "https://www.goodmarket.global/socialsectortaskforce",
+        "urlText": "Social Sector Franchising",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Accelerator program for social franchises ",
+        "vendorURL": "https://www.socialsectorfranchising.org/news",
+        "vendorText": "Learn More"
+    },{
+        "URL": "https://www.goodmarket.global/sewf",
+        "urlText": "SEWF",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Social Enterprise World Forum free bursary tickets",
+        "vendorURL": "https://kwiksurveys.com/s/XRRGyZZU",
+        "vendorText": "Apply"
+    },{
+        "URL": "https://www.goodmarket.global/sewf",
+        "urlText": "SEWF",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Social Enterprise World Forum free bursary tickets",
+        "vendorURL": "https://kwiksurveys.com/s/XRRGyZZU",
+        "vendorText": "Apply"
+    },{
+        "URL": "https://www.goodmarket.global/sewf",
+        "urlText": "SEWF",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Social Enterprise World Forum free bursary tickets",
+        "vendorURL": "https://kwiksurveys.com/s/XRRGyZZU",
+        "vendorText": "Apply"
+    },{
+        "URL": "https://www.goodmarket.global/sewf",
+        "urlText": "SEWF",
+        "imageSource": "https://marketing-image-production.s3.amazonaws.com/uploads/46bf0fe3bd4548fc9b250833b44dd84f7e09a2acb31b4e71199ff8b02bcdbc91a6c436890c864f1a864e9531270fc8420b830f3c00736cba6b5fe32fceb17ef8.jpg",
+        "imageAltText": "Some fancy text",
+        "title": "Social Enterprise World Forum free bursary tickets",
+        "vendorURL": "https://kwiksurveys.com/s/XRRGyZZU",
+        "vendorText": "Apply"
+    }],
+    "spotlight": [ {
+        "URL": "https://www.goodmarket.global/emashitamindonesia",
+        "imageSource": "files/spotlight_1.jpg",
+        "imageAltText": "Some fancy text",
+        "text": "Welcome to the 42 social enterprises, cooperatives, responsible businesses, civic organizations, and networks that became Good Market approved in August 2021! This month’s roundup includes new community members from Colombia, Costa Rica, the United States, Canada, Ireland, the United Kingdom, India, Nepal, Sri Lanka, Indonesia, and New Zealand. More than 2,004 enterprises across 66 countries are now part of the Good Market commons."
+    }
+    ]
+}
