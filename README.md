@@ -8,4 +8,4 @@ This tool allows the non-profit organization Good Market to create personalized 
 ## Download and Installation
 Clone the repository into your machin and run ```npm install``` to install all the needed dependencies.
 
-# Licensing
+# License
