@@ -1,8 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: engineers-for-good
-Upstream-Contact: Hemang Desai <hemang.desai@sap.com>
+Upstream-Contact: Marco Oliveira <marco.oliveira@sap.com>
 Source: https://github.com/SAP/engineers-for-good
 
 Files: *
-Copyright: 2019-2021 SAP SE or an SAP affiliate company and vscode-mta-tools contributors
+Copyright: 2019-2021 SAP SE or an SAP affiliate company and engineers-for-good contributors
 License: Apache-2.0
