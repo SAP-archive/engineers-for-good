@@ -11,3 +11,5 @@ To install the Newsletter Creation Tool, please, access the following link: [New
 
 To send e-mails via SendGrid, please, access the following link: [Sending mails via Sendgrid](newsletter-creation-tool/sendgrid/)
 
+## License
+Copyright 2021 SAP SE or an SAP affiliate company and ```engineers-for-good``` contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/engineers-for-good).
