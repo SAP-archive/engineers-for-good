@@ -1,0 +1,5 @@
+
+applications:
+- name: goodmarket-newsletter
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+  random-route: false

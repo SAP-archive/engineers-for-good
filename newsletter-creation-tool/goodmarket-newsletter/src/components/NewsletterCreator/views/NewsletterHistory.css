@@ -1,0 +1,33 @@
+.newsletterHistory-table {
+    margin-bottom: 100px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+.newsletterHistory-table th {
+    background-color: #17649A;
+    border: solid 1px #ccc;
+    color: white;
+    padding: .5em;
+}
+.newsletterHistory-table  td {
+    border: solid 1px #ccc;
+    padding: 1.9em;
+}
+/* .newsletterHistory-table  tr:nth-child(even) {
+    background-color: #f2f2f2; 
+} */
+
+.popup.preview_popup {
+    height: 80%;
+    top:5%;
+    width: 50%;
+    min-width: 900px;
+    
+}
+.popup_inner.preview_popup{
+    overflow: scroll;
+    top:0%;
+    bottom:0%;
+    left: 0%;
+    right:0%;
+}

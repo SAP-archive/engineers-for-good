@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+
+html, body {
+    font-family: "Noto Sans";
+    margin: 0;
+    padding: 0;
+}
+
+body > #root > div {
+    height: 100vh;
+}
+  

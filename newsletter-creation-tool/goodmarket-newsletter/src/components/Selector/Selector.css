@@ -1,0 +1,99 @@
+.selector-container {
+    margin: 10px;
+}
+
+.selector-header{
+    display: grid;
+    grid-template-areas: 
+    "numSelected selectAll"
+    "searchbar searchbar";
+}
+
+.selector-item {
+    border-style: solid;
+    border-color: #0E3616;
+    border-radius: 5px;
+    border-width: 1px;
+    width: min-content;
+    white-space: nowrap;
+    height: 20px;
+    width:50%;
+    padding: 5px 10px 9px 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.selector-item:hover {
+    color: #ffffff;
+    border-color:rgb(255, 255, 255);
+    background-color: #32742C;
+    border-color: #0E3616;
+}
+
+.selector-item-active {
+    color: rgb(255, 255, 255);
+    background-color: #32742C;
+    border-color: #0E3616;
+}
+
+/* .selector-item-active:hover {
+    color: black;
+    background-color: #ffffff;
+    border-color: #0E3616;
+} */
+
+.select-all {
+    border-style: solid;
+    border-color: #0E3616;
+    border-radius: 5px;
+    border-width: 1px;
+    grid-area: selectAll;
+    background-color: #32742C;
+    width: 80px;
+    justify-self: end;
+    color: white;
+
+}
+
+.select-all:hover {
+    background-color: #004800;
+}
+
+.item-container{
+    margin-top: 10px;
+}
+
+.search-bar {
+    height: 25px;
+    width: 400px;
+    /* width:80%; */
+    grid-area: searchbar;
+    margin-top: 10px;
+}
+
+.input-text {
+    border-color:  rgb(0, 0, 0);
+    border-width: 1px;
+    border-radius: 4px;
+    height: 30px;
+    width: 80%;
+    grid-area: searchbar;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+   
+}
+
+.rcorners2 {
+    border-radius: 4px;
+    border: 1px solid #000000;
+    padding: 5px;
+    width: 50%;
+    margin: auto;
+   overflow: scroll;
+  }
+
+.num-selected {
+    grid-area: numSelected;
+}

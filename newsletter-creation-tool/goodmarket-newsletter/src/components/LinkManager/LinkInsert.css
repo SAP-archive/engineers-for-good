@@ -1,0 +1,45 @@
+
+.link-insert{
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 10px;
+    overflow: auto;
+    margin-left: 20px;
+    /* width: 500px; */
+    width: 80%;
+    margin-bottom: 25px;
+    resize: vertical;
+    height: 20px;
+}
+
+/* ::-webkit-resizer{  
+    background-image: url(./../../HeightAdjust.png); ;
+    background-size: 15px 15px;
+    margin-bottom: 5px;
+ } */
+
+
+.container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.visible {
+    visibility: visible !important;
+}
+
+.Spinner {
+    animation: spinner_animation 3s infinite;
+    animation-timing-function: linear;
+    visibility: hidden;
+}
+
+@keyframes spinner_animation {
+    0% {transform: rotate(0deg);}
+25% {transform: rotate(-90deg);}
+50% {transform: rotate(-180deg);}
+75% {transform: rotate(-270deg);}
+100% {transform: rotate(-360deg);}
+}
