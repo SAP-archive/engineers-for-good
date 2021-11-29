@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: engineers-for-good
-Upstream-Contact: Marco Oliveira <marco.oliveira@sap.com>
+Upstream-Contact: SAP Engineers for Good <engineersforgood@sap.com>
 Source: https://github.com/SAP/engineers-for-good
 
 Files: *
