@@ -1,6 +1,9 @@
-# Engineers for Good
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP/engineers-for-good)](https://api.reuse.software/info/github.com/SAP/engineers-for-good)
+# Important Notice
+This public repository is read-only and no longer maintained.
+
+# Engineers for Good
 
 Engineers for Good is an initiative started by SAP CSR to put the technical workforce of SAP to collaborate with non-profit organizations to produce technical outcomes.
 
